@@ -1,0 +1,16 @@
+{
+  "auto_start": true,
+  "use_gemini": true,
+  "use_binance": true,
+  "binance_mode": "sandbox",
+  "log_level": "detailed",
+  "alert_thresholds": {
+    "BTC": 0.01,
+    "USDT": 10
+  },
+  "telegram": {
+    "enabled": true,
+    "bot_token": "7629814043:AAEK_tA9lDRaMKKOQspcZj1a9URfC6eED60",
+    "chat_id": "1379805039"
+  }
+}
